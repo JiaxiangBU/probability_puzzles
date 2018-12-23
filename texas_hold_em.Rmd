@@ -2,21 +2,7 @@ Texas Hold'em (Hold on)
 
 <input type="checkbox" id="checkbox1" class="styled">没有太听懂，但是可以整合下凯里公式
 
-
-
 讲解了排列组合的内容
-
-```{r}
-factorial(3)
-```
-
-$3!=3 \times 2 \times 1$
-
-```{r}
-choose(5,3)
-```
-
-$C_5^3 =  \frac{5!}{3! \times (5-3)!}$
 
 Monty Hall
 蒙蒂·霍尔

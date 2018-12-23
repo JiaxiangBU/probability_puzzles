@@ -1,0 +1,11 @@
+```{r}
+factorial(3)
+```
+
+$3!=3 \times 2 \times 1$
+
+```{r}
+choose(5,3)
+```
+
+$C_5^3 =  \frac{5!}{3! \times (5-3)!}$
