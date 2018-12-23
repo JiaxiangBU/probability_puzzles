@@ -2,10 +2,7 @@ Texas Hold'em (Hold on)
 
 <input type="checkbox" id="checkbox1" class="styled">没有太听懂，但是可以整合下凯里公式
 
-https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter1.pdf
-https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter2.pdf
-https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter3.pdf
-https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter4.pdf
+
 
 讲解了排列组合的内容
 

@@ -1,0 +1,8 @@
+---
+output: github_document
+---
+
+https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter1.pdf
+https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter2.pdf
+https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter3.pdf
+https://s3.amazonaws.com/assets.datacamp.com/production/course_11371/slides/chapter4.pdf

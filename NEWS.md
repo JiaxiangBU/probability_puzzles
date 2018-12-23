@@ -3,3 +3,4 @@
 1. add r proj and readme and news
 1. add bibtex
 1. add slides
+1. add download notes
