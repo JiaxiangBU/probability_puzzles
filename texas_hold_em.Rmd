@@ -1,3 +1,5 @@
 Texas Hold'em (Hold on)
 
 <input type="checkbox" id="checkbox1" class="styled">没有太听懂，但是可以整合下凯里公式
+
+close 没有讲如何具体算赢的概率
